@@ -1,0 +1,56 @@
+body{
+    margin:0 auto;
+    width:100%;
+}
+.nav-bar{
+    background-color:green;
+    height:86px;
+    width:100%;
+    position:fixed;
+    top:0;
+}
+.list-item{
+    background-color:white;
+    float:right;
+    clear:left;
+    margin:10px;
+    display:inline-block;
+    border-radius:34%;
+}
+a li:hover{
+    background-color:blue;
+}
+.main{
+    width:100%;
+    height:600px;
+    /* background-repeat:no-repeat;
+    background-image:url(imgs\cats.jpg) */
+}
+h1{
+    font-size: 56px;
+    margin-top:86px;
+    float:right;
+}
+.home-section{
+    height:500px;
+    width:100%;
+}
+.col{
+    height:450px;
+    width:47%;
+    margin:17px;
+    border: black 3px solid;
+    float:left;
+
+}
+.footer{
+    width:100%;
+    height:100px;
+    background-color:green;
+}
+.copy{
+    width:33.3%;
+    float:left;
+    display:inline-block;
+    margin:auto;
+}
