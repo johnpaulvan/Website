@@ -1,0 +1,19 @@
+
+.dividers{
+    height:350px;
+    width:49%;
+    border:3px black solid;
+    float:left;
+    margin-top:86px;
+}
+.about-main{
+    height:800px;
+    width:100%;
+    margin-top:86px;
+}
+.about-section{
+    height:700px;
+    margin:20px;
+    float:left;
+    border: 1px solid black;
+}
