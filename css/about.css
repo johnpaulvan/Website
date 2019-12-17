@@ -5,5 +5,14 @@
     margin-top:86px;
 }
 .main-top{
+    margin-top:121px;
     font: size 24;
+}
+.colm{
+    height:300px;
+    width:44.3%;
+    border:3px black solid;
+    border-radius:10;
+    margin:30px;
+    float:left;
 }
