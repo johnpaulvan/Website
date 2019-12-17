@@ -60,6 +60,10 @@ p{
     display:inline-block;
     margin-left:10px;
 }
+.copyr{
+    float:right;
+    margin:15px;
+}
 .social{
     height:100px;
     text-align:center;
