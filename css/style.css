@@ -28,14 +28,24 @@ a li:hover{
     background-position:center;
     background-size:cover;
 }
-h1{
-    font-size: 56px;
+.main-text{
+    height:100px;
+    widows:200px;
+    background-color:green;
+    border:blue 3px solid;
+    position: absolute;
+    top:213px;
+    left:628px;
     margin-top:50px;
     text-align:center;
+}
+h1{
+    font-size: 56px;
 }
 .home-section{
     height:500px;
     width:100%;
+    background-image:url(../jedigallery/saber\ 2.jpg);
 }
 .col{
     height:450px;
@@ -43,6 +53,7 @@ h1{
     margin:17px;
     border: black 3px solid;
     float:left;
+    background-color:white;
 }
 p{
     text-align: center;
