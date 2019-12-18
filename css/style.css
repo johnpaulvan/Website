@@ -22,13 +22,13 @@ a li:hover{
 }
 .main{
     width:100%;
-    height:600px;
+    height:265px;
     background-repeat:no-repeat;
     background-image:url(../imgs/cats.jpg)
 }
 h1{
     font-size: 56px;
-    margin-top:316px;
+    margin-top:235px;
     text-align:center;
 }
 .home-section{
@@ -52,7 +52,7 @@ p{
 }
 .footer{
     width:100%;
-    height:100px;
+    height:78px;
     background-color:green;
 }
 .copy{
@@ -61,15 +61,14 @@ p{
     margin-left:10px;
 }
 .copyr{
-    float:right;
-    margin:15px;
+    margin:4px;
 }
 .social{
-    height:100px;
+    /* height:100px; */
     text-align:center;
 }
 .fab{
     font-size:2.5em;
     color:white;
-    margin:10px;
+    margin:5px;
 }
