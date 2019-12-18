@@ -1,6 +1,6 @@
 
 .about-main{
-    height:1154px;
+    height:1100px;
     width:100%;
     margin-top:86px;
 }
@@ -15,4 +15,29 @@
     border-radius:10;
     margin:30px;
     float:left;
+    margin-left:40px;
+}
+.saber1{
+    height:300px;
+    width:100%;
+}
+.saber2{
+    height:300px;
+    width:100%;
+}
+.saber3{
+    height:300px;
+    width:100%;
+}
+.sky1{
+    height:300px;
+    width:100%;
+}
+.sky2{
+    height:300px;
+    width:100%;
+}
+.sky3{
+    height:300px;
+    width:100%;
 }
