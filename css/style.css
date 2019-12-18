@@ -22,13 +22,15 @@ a li:hover{
 }
 .main{
     width:100%;
-    height:265px;
+    height:600px;
     background-repeat:no-repeat;
-    background-image:url(../imgs/cats.jpg)
+    background-image:url(../jedigallery/sky\ 2.jpg);
+    background-position:center;
+    background-size:cover;
 }
 h1{
     font-size: 56px;
-    margin-top:235px;
+    margin-top:50px;
     text-align:center;
 }
 .home-section{
