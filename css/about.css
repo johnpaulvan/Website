@@ -3,6 +3,10 @@
     height:1100px;
     width:100%;
     margin-top:86px;
+    background-image:url(../imgs/jake-weirick-Q_RBVFFXR_g-unsplash.jpg);
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
 }
 .main-top{
     margin-top:121px;
@@ -11,7 +15,7 @@
 .colm{
     height:300px;
     width:44.3%;
-    border:3px black solid;
+    border:3px white solid;
     border-radius:10;
     margin:30px;
     float:left;
