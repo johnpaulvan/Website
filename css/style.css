@@ -17,12 +17,13 @@ body{
 
 }
 .list-item{
-    background-color:white;
+    background-color:rgb(83, 83, 83);
     float:right;
     clear:left;
     margin:10px;
     display:inline-block;
     border-radius:34%;
+    color:black;
 }
 .logo{
     height:86px;
