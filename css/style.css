@@ -3,12 +3,18 @@ body{
     width:100%;
 }
 .nav-bar{
-    background-color:green;
+    background-color:rgb(83, 83, 83);
     height:86px;
     width:100%;
     position:fixed;
     top:0;
     z-index:1;
+}
+.nav-list{
+    float:right;
+    padding-top: 16px;
+    text-align:center;
+
 }
 .list-item{
     background-color:white;
@@ -17,6 +23,11 @@ body{
     margin:10px;
     display:inline-block;
     border-radius:34%;
+}
+.logo{
+    height:86px;
+    width:86px;
+    padding-left:16px;
 }
 a li:hover{
     background-color:blue;
@@ -32,7 +43,7 @@ a li:hover{
 .main-text{
     height:100px;
     widows:200px;
-    background-color:green;
+    background-color:rgb(83, 83, 83);
     border:blue 3px solid;
     position: absolute;
     top:213px;
@@ -46,7 +57,9 @@ h1{
 .home-section{
     height:500px;
     width:100%;
-    background-image:url(../jedigallery/saber\ 2.jpg);
+    background-image:url(../jedigallery/unnamed.jpg);
+    background-position:center;
+    background-size:cover;
 }
 .col{
     height:450px;
@@ -67,7 +80,7 @@ p{
 .footer{
     width:100%;
     height:94px;
-    background-color:green;
+    background-color:rgb(83, 83, 83);
 }
 .copy{
     width:100%;
